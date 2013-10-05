@@ -1,0 +1,45 @@
+.body-container { 
+	padding-top: 40px; 
+}
+
+.span9, .span5 p {
+	text-align: justify;
+}
+
+.sidebar {
+	padding-top: 23px;
+	width:175px; 
+}
+
+.sidebar.affix {
+	position: fixed;
+	top: 43px;
+}
+
+footer {
+	text-align: center;
+	line-height: 80%;
+}
+
+html,body{
+    height: 100%
+}
+
+.list-no-style {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+a.teamlist,
+a:hover, :focus {
+	color: black;
+}
+
+.left-align {
+	text-align: left;
+}
+
+.banner {
+	padding: 15px;
+}
